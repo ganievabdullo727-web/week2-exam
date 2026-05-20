@@ -530,6 +530,12 @@
   .ml-\[00px\] {
     margin-left: 00px;
   }
+  .ml-\[5\%\] {
+    margin-left: 5%;
+  }
+  .ml-\[10\%\] {
+    margin-left: 10%;
+  }
   .ml-\[10px\] {
     margin-left: 10px;
   }
@@ -542,6 +548,12 @@
   .ml-\[18px\] {
     margin-left: 18px;
   }
+  .ml-\[20\%\] {
+    margin-left: 20%;
+  }
+  .ml-\[20\] {
+    margin-left: 20;
+  }
   .ml-\[20px\] {
     margin-left: 20px;
   }
@@ -553,6 +565,9 @@
   }
   .ml-\[35px\] {
     margin-left: 35px;
+  }
+  .ml-\[40px\] {
+    margin-left: 40px;
   }
   .ml-\[50\%\] {
     margin-left: 50%;
@@ -571,6 +586,12 @@
   }
   .ml-\[60\%\] {
     margin-left: 60%;
+  }
+  .ml-\[60px\] {
+    margin-left: 60px;
+  }
+  .ml-\[80px\] {
+    margin-left: 80px;
   }
   .ml-\[100ppx\] {
     margin-left: 100ppx;
@@ -613,6 +634,9 @@
   }
   .ml-\[3220px\] {
     margin-left: 3220px;
+  }
+  .block {
+    display: block;
   }
   .flex {
     display: flex;
@@ -871,6 +895,9 @@
   }
   .w-\[70\] {
     width: 70;
+  }
+  .w-\[74\%\] {
+    width: 74%;
   }
   .w-\[75\%\] {
     width: 75%;
@@ -1300,6 +1327,9 @@
   .text-\[10px\] {
     font-size: 10px;
   }
+  .text-\[11px\] {
+    font-size: 11px;
+  }
   .text-\[12px\] {
     font-size: 12px;
   }
@@ -1357,6 +1387,9 @@
   }
   .text-\[\#F0F9FF\] {
     color: #F0F9FF;
+  }
+  .text-\[1\] {
+    color: 1;
   }
   .text-\[3\] {
     color: 3;
