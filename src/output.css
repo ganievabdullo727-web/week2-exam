@@ -422,6 +422,9 @@
   .mt-\[150px\] {
     margin-top: 150px;
   }
+  .mt-\[200px\] {
+    margin-top: 200px;
+  }
   .mt-\[204x\] {
     margin-top: 204x;
   }
@@ -2022,6 +2025,11 @@
       margin-left: 320px;
     }
   }
+  .lg\:ml-\[350px\] {
+    @media (width >= 64rem) {
+      margin-left: 350px;
+    }
+  }
   .lg\:ml-\[400px\] {
     @media (width >= 64rem) {
       margin-left: 400px;
@@ -2225,6 +2233,11 @@
   .lg\:h-\[400px\] {
     @media (width >= 64rem) {
       height: 400px;
+    }
+  }
+  .lg\:h-\[600px\] {
+    @media (width >= 64rem) {
+      height: 600px;
     }
   }
   .lg\:h-\[700px\] {
